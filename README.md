@@ -22,8 +22,11 @@ The ATM Application is a Java-based program that simulates the functionality of 
 - MySQL server for database integration.
 - An Integrated Development Environment (IDE) for Java, such as Eclipse or IntelliJ IDEA.
 
-## Author
+- ### Author
 
-- Emanuel Marshal Github.com/Marshal-Emanuel
+- **Name:** Emanuel Marshal
+- **GitHub:** [Marshal-Emanuel](https://github.com/Marshal-Emanuel)
 - Chuka University
+
+
 
