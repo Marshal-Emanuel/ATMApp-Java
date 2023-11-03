@@ -24,6 +24,6 @@ public class CashDispenser {
         return availableCash;
         }
 
-        return 000.0;
+        return 000;
     }
 }
