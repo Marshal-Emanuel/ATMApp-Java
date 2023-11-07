@@ -14,7 +14,7 @@ public class LoginScreen extends JFrame {
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         setLayout(new BorderLayout());
 
-        // Create and add components
+        // Create and 
         accountNumberField = new JTextField(20);
         pinField = new JPasswordField(20);
         JButton loginButton = new JButton("Login");
