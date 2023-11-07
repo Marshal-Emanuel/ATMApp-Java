@@ -7,6 +7,7 @@ public class LoginScreen extends JFrame {
     private ATMBankDatabase bankDatabase;
     private JTextField accountNumberField;
     private JPasswordField pinField;
+    
 
     public LoginScreen(ATMBankDatabase bankDatabase) {
         this.bankDatabase = bankDatabase;
