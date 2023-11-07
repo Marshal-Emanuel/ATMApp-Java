@@ -8,7 +8,6 @@ public class LoginScreen extends JFrame {
     private JTextField accountNumberField;
     private JPasswordField pinField;
     
-
     public LoginScreen(ATMBankDatabase bankDatabase) {
         this.bankDatabase = bankDatabase;
         setTitle("ATM Login");
