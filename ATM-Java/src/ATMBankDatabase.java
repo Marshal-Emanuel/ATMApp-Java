@@ -9,7 +9,7 @@ public class ATMBankDatabase {
             Class.forName("com.mysql.cj.jdbc.Driver");
 
             // Establish a connection to the database
-            connection = DriverManager.getConnection("jdbc:mysql://localhost:3306/atm_db", "root", "");
+            connection = DriverManager.getC("jdbc:mysql://localhost:3306/atm_db", "root", "");
 
         } catch (ClassNotFoundException | SQLException e) {
             e.printStackTrace();
