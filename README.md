@@ -26,7 +26,7 @@ The ATM Application is a Java-based program that simulates the functionality of 
 
 - **Name:** Emanuel Marshal
 - **GitHub:** [Marshal-Emanuel](https://github.com/Marshal-Emanuel)
-- Chuka University
+- Student - Chuka University
 
 
 
