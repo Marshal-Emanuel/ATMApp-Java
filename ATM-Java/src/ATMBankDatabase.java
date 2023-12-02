@@ -6,7 +6,7 @@ public class ATMBankDatabase {
     public ATMBankDatabase() {
         try {
             // Load the MySQL JDBC driver
-            Class.forName("com.mysql.cj.jdbc.Driver");
+            Class.forName("com.mysql.jcj.jdbc.Driver");
 
             // Establish a connection to the database
             connection = DriverManager.getConnection("jdbc:mysql://localhost:3306/atm_db", "root", "");
