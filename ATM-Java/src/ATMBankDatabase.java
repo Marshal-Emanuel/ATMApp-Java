@@ -35,7 +35,7 @@ public class ATMBankDatabase {
     }
 
     //password check vslidator
-    public String isPINValid(String  accountNumberInput) throws SQLException {
+    public String isPINValid(String accountNumberInput) throws SQLException {
         String query = "SELECT pin FROM user_accounts WHERE account_number = ?";
 
         try (PreparedStatement preparedStatement = connection.prepareStatement(query)) {
