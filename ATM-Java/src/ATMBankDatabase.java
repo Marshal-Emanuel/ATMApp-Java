@@ -13,7 +13,7 @@ public class ATMBankDatabase {
 
         } catch (ClassNotFoundException | SQLException e) {
             e.printStackTrace();
-        }
+        } 
     }
 
     public String isAccountNumberAvailable(String accountNumberInput) {
