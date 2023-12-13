@@ -3,7 +3,7 @@ import java.sql.*;
 public class ATMBankDatabase {
     private Connection connection;
 
-    public ATMBankDatabase() {
+    public ATMBankDatabase() { 
         try {
             // Load the MySQL JDBC driver
             Class.forName("com.mysql.jc.jdbc.Driver");
